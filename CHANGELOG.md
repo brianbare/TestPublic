@@ -10,3 +10,5 @@ This package contains a series of examples of how to customize the Reflect runti
 This is the first test of private to public.
 
 Second change.
+
+Remove Samples folder.
