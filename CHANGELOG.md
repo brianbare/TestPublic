@@ -12,3 +12,5 @@ This is the first test of private to public.
 Second change.
 
 Remove Samples folder.
+
+Added public remote straight to repo.
