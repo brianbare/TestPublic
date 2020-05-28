@@ -6,3 +6,5 @@ All notable changes to this package will be documented in this file.
 ### This is the first release of *Unity Package Reflect Extensions.
 
 This package contains a series of examples of how to customize the Reflect runtime and extend the editor with new tools.
+
+This is the first test of private to public.
